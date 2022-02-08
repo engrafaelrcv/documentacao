@@ -32,7 +32,7 @@ templates_path = ['_templates']
 html_theme = 'sphinx_rtd_theme'
 html_style = 'css/expressotheme.css'
 
-#html_static_path = ['_static']
+html_static_path = ['_static']
 html_logo = 'logo-expresso-branca.svg'
 html_theme_options = {
     'logo_only': True,
